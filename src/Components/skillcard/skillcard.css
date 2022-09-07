@@ -1,0 +1,19 @@
+.maindiv{
+    display: block;  
+}
+.cardItem{
+    height:60px;
+    padding-right:5px;
+    width: 100px;
+}
+.cardItem1{
+    height:80px;
+    padding-right:5px;
+    width: 100px;
+}
+.tooltip{
+    border-radius: 20%;
+    padding: 3px;
+    margin-bottom:3px;
+    text-align: center;
+}
