@@ -29,7 +29,9 @@ function NavBar(props) {
         }`,
       },
     });
-  
+    const refreshPage = ()=>{
+      window.location.reload();
+   }
     const link = true ? "/" : "/";
   
     const [currTheme, setCurrTheme] = useState(props.theme);
@@ -67,7 +69,7 @@ function NavBar(props) {
           <header className="header">
             <NavLink to={link} tag={Link} className="logo">
               <span style={{ color: theme.text }}></span>
-              <span className="logo-name" style={{ color: theme.text }}>
+              <span className="logo-name" style={{ color: theme.text }} onClick={refreshPage}>
                 Shashank
               </span>
               <span style={{ color: theme.text }}></span>

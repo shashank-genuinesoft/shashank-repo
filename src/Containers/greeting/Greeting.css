@@ -28,7 +28,7 @@
 }
 .greeting-text-div {
   margin-top: 2%;
-  margin-left: 8%;
+  margin-left: 4%;
 
 }
 
@@ -90,7 +90,7 @@
   }
 
   .greet-main {
-    max-width: 900px;
+    max-width: 1200px;
   }
 }
 @media (max-width: 768px) {

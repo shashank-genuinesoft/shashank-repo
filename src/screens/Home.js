@@ -7,9 +7,11 @@ function Home(props) {
     const theme = props.theme;
     return (
 <>
+
 <Greeting theme={theme} />
 <Skills theme ={theme}/>
 <Cloud theme ={theme}/>
+
 
 </>
 

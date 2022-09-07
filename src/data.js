@@ -5,7 +5,7 @@ const greeting = {
     nickname: "harry / picleric",
     full_name: "Shashank pathe",
     typer:
-      "Full Stack Developer.",
+      "Passionate Full Stack web developer having an experience of web applications with Python, Django and React.js.",
     resumeLink:
       "https://docs.google.com/document/d/1A_jWRG74Rst427tg1izLa6vRXclS9_9F856jWJPJlDY/edit?usp=sharing",
     mail: "mailto:shashankpathe@gmail.com",
